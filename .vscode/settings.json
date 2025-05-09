@@ -1,0 +1,9 @@
+{
+    "java.configuration.runtimes": [
+      {
+        "name": "JavaSE-1.8",
+        "path": "/Users/carsten/Documents/Tools/x86_macosx_64/compilers/ibm/java/1.8.0.3",
+        "default": true
+      }
+    ]
+  }
